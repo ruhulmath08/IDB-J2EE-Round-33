@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "StudentInformation.dtd">
+<students>
+    <student>
+        <id>10001</id>
+        <name>Ruhul</name>
+        <age>29</age>
+        <email>ruhulmath08@gmail.com</email>
+    </student>
+    
+    <student>
+        <id>10002</id>
+        <name>Reza</name>
+        <age>30</age>
+        <email>rezaGdesiger@gmail.com</email>
+    </student>
+</students>
