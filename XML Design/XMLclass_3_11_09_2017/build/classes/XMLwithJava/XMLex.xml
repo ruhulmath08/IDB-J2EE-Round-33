@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<company>
+    <staff>
+        <fullname>Ruhul</fullname>
+        <salary>300000</salary>
+        <age>29</age>
+    </staff>    
+    <staff>
+        <fullname>Urmi</fullname>
+        <salary>200000</salary>
+        <age>25</age>
+    </staff>
+    <staff>
+        <fullname>Shahrier</fullname>
+        <salary>250000</salary>
+        <age>27</age>
+    </staff>
+    <staff>
+        <fullname>Shabib</fullname>
+        <salary>400000</salary>
+        <age>28</age>
+    </staff>
+    <staff>
+        <fullname>Fahamida</fullname>
+        <salary>700000</salary>
+        <age>26</age>
+    </staff>         
+</company>
