@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student rollno = "1000">
+        <firstname>Md. Ruhul</firstname>
+        <lastname>Amin</lastname>
+        <nickname>Ruhul</nickname>
+        <marks>85</marks>
+    </student>
+    <student rollno = "1001">
+        <firstname>Mst. Urmi</firstname>
+        <lastname>Urmi</lastname>
+        <nickname>Urmi</nickname>
+        <marks>88</marks>
+    </student>
+    <student rollno = "1002">
+        <firstname>Md. Shahrier</firstname>
+        <lastname>Islam</lastname>
+        <nickname>Shahrier</nickname>
+        <marks>90</marks>
+    </student>
+    <student rollno = "1003">
+        <firstname>Md. Atique</firstname>
+        <lastname>Islam</lastname>
+        <nickname>Atique</nickname>
+        <marks>96</marks>
+    </student>
+</class>
